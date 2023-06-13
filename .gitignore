@@ -1,2 +1,6 @@
 .idea
 imaptool.exe
+logs
+config/mysql.json
+*.sock
+*.lock
